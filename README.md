@@ -27,7 +27,7 @@ Foster propoe uma arquitetura, estruturada em quatro camadas: camada coletiva, c
 
 * A *camada de recursos* interage de maneira direta com as duas camadas ja descritas, faz uso das funções na camada de conectividade e das interfaces na camada base. Dessa forma, ela adminiostra um unico recurso por vez.
 
-* A *camada coletiva* é responsavel pela manipulação do acesso a múltiplos recursos e comumente propoe serviços oara descoberta de recursos, alocação e escalonamento de multiplas tarefas entre outros.
+* A *camada coletiva* é responsavel pela manipulação do acesso a múltiplos recursos e comumente propoe serviços para descoberta de recursos, alocação e escalonamento de multiplas tarefas entre outros.
 
 ### Computação em Nuvem
 Caracterizada por organizações abertas, a computação em nuvem tem crescido bastante e ocupado o lugar cada vez mais da computação em grade. Ela permite asssociação de diferente agentes aos seus recursos, como: maquina virtual, armazenamento ou aplicações; a exemplos temos a Google que provem esses tipos de recursos ou serviços terceirizados. Sendo assim pessoas ou empresas já não lidam de maneira direta, mas terceirizam esses recursos.
